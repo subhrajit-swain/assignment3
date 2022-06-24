@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Assign3" language="en" table="x_817123_demo_assi_assign3">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Assign3</label>
+            <language>en</language>
+            <name>x_817123_demo_assi_assign3</name>
+            <plural>Assign3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-20 17:50:52</sys_created_on>
+            <sys_id>df579f80879c91104b6b64280cbb3540</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assign3</sys_name>
+            <sys_package display_value="Demo Assign" source="x_817123_demo_assi">89af6184871891104b6b64280cbb35a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo Assign">89af6184871891104b6b64280cbb35a6</sys_scope>
+            <sys_update_name>sys_documentation_x_817123_demo_assi_assign3__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-20 17:50:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
