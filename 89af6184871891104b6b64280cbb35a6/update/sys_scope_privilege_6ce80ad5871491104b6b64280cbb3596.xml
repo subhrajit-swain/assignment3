@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Demo Assign">89af6184871891104b6b64280cbb35a6</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-24 09:20:23</sys_created_on>
+        <sys_id>6ce80ad5871491104b6b64280cbb3596</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.setValue</sys_name>
+        <sys_package display_value="Demo Assign" source="x_817123_demo_assi">89af6184871891104b6b64280cbb35a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Assign">89af6184871891104b6b64280cbb35a6</sys_scope>
+        <sys_update_name>sys_scope_privilege_6ce80ad5871491104b6b64280cbb3596</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-24 09:20:23</sys_updated_on>
+        <target_name>GlideRecord.setValue</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
